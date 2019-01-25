@@ -1,0 +1,1 @@
+python crawlerVK.py -c control1.ctl -l logbook.log -o frendship_graph.graphml
